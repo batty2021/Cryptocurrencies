@@ -1,7 +1,7 @@
 # Cryptocurrencies
 Use Unsupervised learning techniques to analyze Cryptocurrency data.
 
-# Tools ;
+# Tools :
 
 - Software: Python , Anaconda Navigator , Conda , Jupyter Notebook 
 - [crypto_data.csv](http://localhost:8888/edit/Resources/crypto_data.csv),  [cryptocompare](https://min-api.cryptocompare.com/data/all/coinlist)
@@ -39,7 +39,7 @@ This 3-D scatter plot was obtained using the PCA algorithm to reduce the crytocu
 Plotting the scatter plot from two cryptocurrency features directly does not efficiently segregate the different classes. Then using the PCA algorithm is the right method for better visualizations.
 
 
-# Summary ;
+# Summary :
 We have identified the classification of 532 cryptocurrencies based on similarities of their features.
 Particularities of each group need to be analyzed to determined their performance and potential interest for the investment bank's clients.
 
